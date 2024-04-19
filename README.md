@@ -1,0 +1,2 @@
+the csv and the json i created are way too big, so here is a google drive link to them: 'https://drive.google.com/file/d/1wMWTC2WDqZtVvSgtYnJoemwk4RWRYTYM/view?usp=sharing' and 'https://drive.google.com/file/d/17Z7AIez6dzE-wFYBA370-Jc-6CpgVRRA/view?usp=sharing'
+I edited the csv to make the file called Fire1. What would normally be done using a spreadsheet has been done using python code that is now commented out at the bottom in format.py. 
